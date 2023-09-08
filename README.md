@@ -36,4 +36,9 @@ The dataset has information of 100k orders from 2016 to 2018 made at multiple ma
 ### Power BI Dashboard
 The dashboard has been published into Power BI service:
 [Brazilian E-commerce Analysis](https://app.powerbi.com/links/mcUuqZD83K?ctid=af1f3753-3925-4e6f-949b-97c007320803&pbi_source=linkShare)
-  
+
+## Contact
+* Email: [nguyenngoclinh.atc@gmail.com](nguyenngoclinh.atc@gmail.com)
+* Phone: 0984 911 665
+* Linkedin: [www.linkedin.com/in/ngoc-linh-nguyen-225234207](www.linkedin.com/in/ngoc-linh-nguyen-225234207)
+* 
