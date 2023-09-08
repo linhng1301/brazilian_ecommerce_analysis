@@ -41,4 +41,3 @@ The dashboard has been published into Power BI service:
 * Email: [nguyenngoclinh.atc@gmail.com](nguyenngoclinh.atc@gmail.com)
 * Phone: 0984 911 665
 * Linkedin: [www.linkedin.com/in/ngoc-linh-nguyen-225234207](www.linkedin.com/in/ngoc-linh-nguyen-225234207)
-* 
