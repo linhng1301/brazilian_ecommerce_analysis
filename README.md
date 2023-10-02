@@ -35,7 +35,7 @@ The dataset has information of 100k orders from 2016 to 2018 made at multiple ma
 
 ### Power BI Dashboard
 The dashboard has been published into Power BI service:
-[Brazilian E-commerce Analysis](https://app.powerbi.com/links/mcUuqZD83K?ctid=af1f3753-3925-4e6f-949b-97c007320803&pbi_source=linkShare)
+[Brazilian E-commerce Analysis]([https://app.powerbi.com/links/mcUuqZD83K?ctid=af1f3753-3925-4e6f-949b-97c007320803&pbi_source=linkShare](https://app.powerbi.com/view?r=eyJrIjoiNmE5NDliMzctMWZmOS00MGEzLWJlMDYtODEwMGU5MGNiZmJlIiwidCI6ImFmMWYzNzUzLTM5MjUtNGU2Zi05NDliLTk3YzAwNzMyMDgwMyIsImMiOjEwfQ%3D%3D))
 ### PowerPoint Report:
 [Brazilian E-commerce Analysis Report](https://docs.google.com/presentation/d/1Oznj_-zcEVDZeZml-Tz0Y7S04ZSThN7L/edit?usp=sharing&ouid=111498002845463060383&rtpof=true&sd=true)
 
